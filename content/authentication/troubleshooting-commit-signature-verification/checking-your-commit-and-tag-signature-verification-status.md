@@ -1,4 +1,4 @@
----
+---main
 title: Checking your commit and tag signature verification status
 intro: 'You can check the verification status of your commit and tag signatures on {% data variables.product.product_name %}.'
 redirect_from:
